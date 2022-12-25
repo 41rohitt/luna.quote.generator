@@ -195,6 +195,7 @@ body {
 
   .main-content {
     height: 350px;
+    margin-top: 0;
   }
 
   .header {
